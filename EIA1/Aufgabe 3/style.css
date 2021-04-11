@@ -66,7 +66,6 @@ body {
     margin: auto;  
     margin-top: -20px;
    
-  
   }
   
   .ueberschrift {
@@ -79,17 +78,6 @@ body {
   margin-bottom: 200px;
   }
   
-  .subtitle {
-  color: rgb(255, 255, 255);
-  font-size: 25px;
-  font-family: 'Spartan', sans-serif;
-  margin: auto;
-  margin-top: -198px;
-  margin-left: 400px;
-  margin-bottom: 200px;
-  }
-  
-  
   .icon {
   width: 100px;
   height: 100px;
@@ -98,9 +86,7 @@ body {
   margin-bottom: 100px;
   }
 
-  
-  
-  .icon img:hover {
+   .icon img:hover {
   opacity: 60%;
   }
   
