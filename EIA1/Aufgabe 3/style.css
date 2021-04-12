@@ -100,17 +100,12 @@ color: #c77ac3 ;
   input {
   width: 25%;
   height: 20px;
-  background-color: rgb(187, 185, 185);
+  background-color: rgb(185, 185, 185);
   color: white;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 15px;
   border-radius: 4px;
   outline: none;
-  }
-  
-  #Nachricht {
-  width: 40%;
-  height: 40px;
   }
   
   .Datenschutz {
@@ -122,9 +117,9 @@ color: #c77ac3 ;
   button {
   width: 10%;
   height: 20px;
-  background-color: rgb(187, 185, 185);
+  background-color: rgb(185, 185, 185);
   color: white;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: sans-serif;
   font-size: 12px;
   border-radius: 4px;
   
