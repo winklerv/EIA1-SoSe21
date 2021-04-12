@@ -81,7 +81,7 @@ body {
   .icon {
   width: 100px;
   height: 100px;
-  margin-top: -195px;
+  margin-top: -200px;
   margin-left: 450px;
   margin-bottom: 100px;
   }
@@ -89,6 +89,18 @@ body {
    .icon img:hover {
   opacity: 60%;
   }
+
+  .icon2 {
+    width: 100px;
+    height: 100px;
+    margin-top: -195px;
+    margin-left: 490px;
+    margin-bottom: 100px;
+}
+
+  .icon2 img:hover {
+    opacity: 60%;
+    }
   
   h2 {
   font-size: 23px;
