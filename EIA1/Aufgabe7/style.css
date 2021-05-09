@@ -1,0 +1,118 @@
+html, body {
+    height: 100%;
+}
+
+body {
+background: #000;
+height: 100%;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.drumbuttons {
+display: flex;
+width: 550px;
+height: 700px;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: space-evenly;
+}
+
+.button {
+width: 150px;
+height: 150px;
+border-radius: 5%;
+}
+.button:hover {
+cursor: pointer;
+}
+
+#play-button {
+opacity: 70%;
+}
+#play-button:hover {
+cursor: pointer;
+opacity: 100%;
+}
+
+#drum1 {
+opacity: 92%;
+background-color: #7197dd;
+}
+#drum1:hover {
+opacity: 100%;
+background-color: #7197dd;
+}
+
+#drum2 {
+opacity: 92%;
+background-color: #7197dd;
+}
+#drum2:hover {
+opacity: 100%;
+background-color: #7197dd;
+}
+
+#drum3 {
+opacity: 92%;
+background-color: #7197dd;
+}
+#drum3:hover {
+opacity: 100%;
+background-color: #7197dd;
+}
+
+#drum4 {
+opacity: 92%;
+background-color: #c278c9;
+}
+#drum4:hover {
+opacity: 100%;
+background-color: #c278c9;
+}
+
+#drum5 {
+opacity: 92%;
+background-color: #c278c9;
+}
+#drum5:hover {
+opacity: 100%;
+background-color: #c278c9;
+}
+
+#drum6 {
+opacity: 92%;
+background-color: #c278c9;
+}
+#drum6:hover {
+opacity: 100%;
+background-color: #c278c9;
+}
+
+#drum7 {
+opacity: 92%;
+background-color: #c278c9;
+}
+#drum7:hover {
+opacity: 100%;
+background-color: #c278c9;
+}
+
+#drum8 {
+opacity: 92%;
+background-color: #846dc4;
+}
+#drum8:hover {
+opacity: 100%;
+background-color: #846dc4;
+}
+
+#drum9 {
+opacity: 92%;
+background-color: #846dc4;
+}
+#drum9:hover {
+opacity: 100%;
+background-color: #846dc4;
+}
